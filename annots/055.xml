@@ -1,0 +1,26 @@
+<annotation>
+		<folder>Parking</folder>
+		<filename>055.jpg</filename>
+		<path>/home/LavanyaSunder/Desktop/Parking/055.jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>1000</width>
+			<height>1000</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>parking</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>190</xmin>
+				<ymin>290</ymin>
+				<xmax>845</xmax>
+				<ymax>670</ymax>
+			</bndbox>
+		</object>
+</annotation>
